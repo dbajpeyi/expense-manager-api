@@ -1,6 +1,6 @@
 # expense-man-api
 
-FIXME
+A simple api service for Expense manager app
 
 ## Prerequisites
 
