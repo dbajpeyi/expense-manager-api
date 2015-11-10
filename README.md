@@ -1,6 +1,6 @@
 # expense-man-api
 
-A simple api service for Expense manager app
+A simple api service for Expense Manager app
 
 ## Prerequisites
 
